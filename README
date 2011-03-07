@@ -1,1 +1,3 @@
 A simple Maven project, to be used with Eclipse using: 'mvn eclipse:eclipse'
+
+Making a change to read me on this branch
